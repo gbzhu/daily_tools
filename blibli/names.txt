@@ -1,0 +1,113 @@
+1、1 - 1 - Welcome to Machine Learning【中英】
+2、1 - 2 - Welcome【中英】
+3、1 - 3 - What is Machine Learning【中英】
+4、1 - 4 - Supervised Learning 【中英】
+5、1 - 5 - Unsupervised Learning 【中文】
+6、2 - 1 - Model Representation 【中文】
+7、2 - 2 - Cost Function 【中文】
+8、2 - 3 - Cost Function - Intuition I 【中文】
+9、2 - 4 - Cost Function - Intuition II 【中文】
+10、2 - 5 - Gradient Descent 【中文】
+11、2 - 6 - Gradient Descent Intuition 【中文】
+12、2 - 7 - GradientDescentForLinearRegression 【中英】
+13、3 - 1 - Matrices and Vectors【中文】
+14、3 - 2 - Addition and Scalar Multiplication 【中文】
+15、3 - 3 - Matrix Vector Multiplication 【中文】
+16、3 - 4 - Matrix Matrix Multiplication 【中文】
+17、3 - 5 - Matrix Multiplication Properties 【中文】
+18、3 - 6 - Inverse and Transpose【中文】
+19、4 - 1 - Multiple Features 【中文】
+20、4 - 2 - Gradient Descent for Multiple Variables 【中文】
+21、4 - 3 - Gradient Descent in Practice I - Feature Scaling 【中文】
+22、4 - 4 - Gradient Descent in Practice II - Learning Rate 【中英】
+23、4 - 5 - Features and Polynomial Regression 【中英】
+24、4 - 6 - Normal Equation 【中英】
+25、4 - 7 - Normal Equation Noninvertibility (Optional) 【中英】
+26、4 - 8 - Working on and Submitting Programming Exercises 【中英】
+27、5 - 1 - Basic Operations 【中英】
+28、5 - 2 - Moving Data Around 【中英】
+29、5 - 3 - Computing on Data【中英】
+30、5 - 4 - Plotting Data 【中英】
+31、5 - 5 - Control Statements【中英】
+32、5 - 6 - Vectorization 【中英】
+33、6 - 1 - Classification 【中英(机翻)】
+34、6 - 2 - Hypothesis Representation 【中文】
+35、6 - 3 - Decision Boundary 【中英】
+36、6 - 4 - Cost Function 【中英】
+37、6 - 5 - Simplified Cost Function and Gradient Descent 【中英】
+38、6 - 6 - Advanced Optimization 【中英】
+39、6 - 7 - Multiclass Classification_ One-vs-all 【中英】
+40、7 - 1 - The Problem of Overfitting【中英】
+41、7 - 2 - Cost Function 【中英】
+42、7 - 3 - Regularized Linear Regression 【中英】
+43、7 - 4 - Regularized Logistic Regression 【中英】
+44、8 - 1 - Non-linear Hypotheses 【中英】
+45、8 - 2 - Neurons and the Brain 【中英】
+46、8 - 3 - Model Representation I 【中英】
+47、8 - 4 - Model Representation II 【中英】
+48、8 - 5 - Examples and Intuitions I 【中英】
+49、8 - 6 - Examples and Intuitions II 【中英】
+50、8 - 7 - Multiclass Classification 【中文】
+51、9 - 1 - Cost Function 【中英】
+52、9 - 2 - Backpropagation Algorithm 【中英】
+53、9 - 3 - Backpropagation Intuition 【中英】
+54、9 - 4 - Implementation Note_ Unrolling Parameters 【中英】
+55、9 - 5 - Gradient Checking 【中英】
+56、9 - 6 - Random Initialization 【中英】
+57、9 - 7 - Putting It Together 【中英】
+58、9 - 8 - Autonomous Driving 【中英】
+59、10 - 1 - Deciding What to Try Next 【中英】
+60、10 - 2 - Evaluating a Hypothesis 【中英】
+61、10 - 3 - Model Selection and Train_Validation_Test Sets 【中英】
+62、10 - 4 - Diagnosing Bias vs. Variance 【中英】
+63、10 - 5 - Regularization and Bias_Variance 【中英】
+64、10 - 6 - Learning Curves 【中英】
+65、10 - 7 - Deciding What to Do Next Revisited 【中英】
+66、11 - 1 - Prioritizing What to Work On 【中英】
+67、11 - 2 - Error Analysis 【中英】
+68、11 - 3 - Error Metrics for Skewed Classes 【中英】
+69、11 - 4 - Trading Off Precision and Recall 【中英】
+70、11 - 5 - Data For Machine Learning 【中英】
+71、12 - 1 - Optimization Objective 【中英】
+72、12 - 2 - Large Margin Intuition 【中英】
+73、12 - 3 - Mathematics Behind Large Margin Classification (Optional) 【中英】
+74、12 - 4 - Kernels I 【中英】
+75、12 - 5 - Kernels II 【中英】
+76、12 - 6 - Using An SVM 【中英】
+77、13 - 1 - Unsupervised Learning_ Introduction 【中英】
+78、13 - 2 - K-Means Algorithm 【中英】
+79、13 - 3 - Optimization Objective 【中英】
+80、13 - 4 - Random Initialization 【中英】
+81、13 - 5 - Choosing the Number of Clusters 【中英】
+82、14 - 1 - Motivation I_ Data Compression 【中英】
+83、14 - 2 - Motivation II_ Visualization 【中英】
+84、14 - 3 - Principal Component Analysis Problem Formulation 【中英】
+85、14 - 4 - Principal Component Analysis Algorithm 【中英】
+86、14 - 5 - Choosing the Number of Principal Components 【中英】
+87、14 - 6 - Reconstruction from Compressed Representation 【中英】
+88、14 - 7 - Advice for Applying PCA 【中英】
+89、15 - 1 - Problem Motivation 【中英】
+90、15 - 2 - Gaussian Distribution 【中英】
+91、15 - 3 - Algorithm 【中英】
+92、15 - 4 - Developing and Evaluating an Anomaly Detection System 【中英】
+93、15 - 5 - Anomaly Detection vs. Supervised Learning 【中英】
+94、15 - 6 - Choosing What Features to Use 【中英】
+95、15 - 7 - Multivariate Gaussian Distribution (Optional) 【中英】
+96、15 - 8 - Anomaly Detection using the Multivariate Gaussian Distribution (Optiona
+97、16 - 1 - Problem Formulation 【中英】
+98、16 - 2 - Content Based Recommendations 【中英】
+99、16 - 3 - Collaborative Filtering 【中英】
+100、16 - 4 - Collaborative Filtering Algorithm 【中英】
+101、16 - 5 - Vectorization_ Low Rank Matrix Factorization 【中英】
+102、16 - 6 - Implementational Detail_ Mean Normalization 【中英】
+103、17 - 1 - Learning With Large Datasets 【中英】
+104、17 - 2 - Stochastic Gradient Descent 【中英】
+105、17 - 3 - Mini-Batch Gradient Descent 【中英】
+106、17 - 4 - Stochastic Gradient Descent Convergence 【中英】
+107、17 - 5 - Online Learning 【中英】
+108、17 - 6 - Map Reduce and Data Parallelism 【中英】
+109、18 - 1 - Problem Description and Pipeline 【中英】
+110、18 - 2 - Sliding Windows 【中英】
+111、18 - 3 - Getting Lots of Data and Artificial Data 【中英】
+112、18 - 4 - Ceiling Analysis_ What Part of the Pipeline to Work on Next 【中英】
+113、19 - 1 - Summary and Thank You 【中英】
