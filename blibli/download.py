@@ -26,19 +26,32 @@ def get_names(root_url: str):
     f.close()
 
 
-def modify_name(video_dir: str):
+def modify_name(videos_dir_path: str):
     name_list = []
     f = open('./names.txt', 'r', encoding='utf8')
     for line in f:
         name_list.append(line.replace('\n', ''))
-    names = os.listdir(video_dir)
+    names = os.listdir(videos_dir_path)
     for name in names:
-        old_name = video_dir + name
+        old_name = videos_dir_path + name
         index = re.search('(\d+)', name).group()
-        new_name = video_dir + name_list[int(index) - 1] + '.mp4'
+        new_name = videos_dir_path + name_list[int(index) - 1] + '.mp4'
         os.rename(old_name, new_name)
+
+
+def rename(videos_dir_path: str):
+    names = os.listdir(videos_dir_path)
+    for name in names:
+        print(name)
+        if '、' not in name:
+            continue
+        else:
+            old_name = videos_dir_path + name
+            name_p = name.split('、')[1]
+            new_name = videos_dir_path + name_p
+            os.rename(old_name, new_name)
 
 
 if __name__ == '__main__':
     video_dir = '/Users/gbzhu/data/machine_learning/Ng_machine_learning/'
-    modify_name(video_dir)
+    rename(video_dir)
