@@ -1,5 +1,5 @@
 """
-    download video form www.blibli.com
+    download NG's video form www.blibli.com
 
 """
 import gzip
