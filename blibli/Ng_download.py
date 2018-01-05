@@ -21,9 +21,8 @@ def get_names(root_url: str):
     bs_obj = BeautifulSoup(data, 'lxml')
     plist = bs_obj.find(id='plist')
     names_str = plist.get_text()
-    f = open('./names.txt', 'w', encoding='utf8')
-    f.write(names_str)
-    f.close()
+    with open('./Lhy_names.txt', 'w', encoding='utf8') as f:
+        f.write(names_str)
 
 
 def modify_name(videos_dir_path: str):
@@ -53,5 +52,5 @@ def rename(videos_dir_path: str):
 
 
 if __name__ == '__main__':
-    video_dir = '/Users/gbzhu/data/machine_learning/Ng_machine_learning/'
-    rename(video_dir)
+    url = 'https://www.bilibili.com/video/av10590361/#page=1'
+    get_names(url)
